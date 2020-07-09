@@ -72,5 +72,5 @@ def Convert(inputpath):
 if __name__ == '__main__':
     vediopath = input('Enter File Path: ')
     if len(vediopath) < 1 :
-        vediopath = '/Users/zireael19andre/Movies/TubeGet'
+        vediopath = 'OSpath'
     Convert(vediopath)
